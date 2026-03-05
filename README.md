@@ -16,6 +16,16 @@ This repository hosts my academic website.
 - Employee Green Behaviour
 - Industry 5.0 and Digital Transformation
 
+Repository Topics
+academic-website
+research-portfolio
+green-hrm
+sustainability
+ai-research
+industry-5
+human-resource-management
+github-pages
+
 ## Academic Profiles
 
 Google Scholar  
